@@ -2,7 +2,7 @@ San Francisco
 ==
 
 ## Activities
-* [Carboard Slides](http://www.yelp.com/biz/seward-street-slides-san-francisco)
+* [Cardboard Slides](http://www.yelp.com/biz/seward-street-slides-san-francisco)
 
 
 ## Restaurants
