@@ -7,7 +7,23 @@ San Francisco
 
 
 ## Restaurants
+
+### Mediterranean
+* [Ali Baba's Cave](http://www.yelp.com/biz/ali-babas-cave-san-francisco)
+* [Mazzat](http://mazzatsf.com/)
+
+### Mexican
+* [Velvet Cantina](http://velvetcantina.com/)
+* [Gracias Madre](http://gracias-madre.com/)
+
+### Pizza
 * [Rustic Pizza](http://www.yelp.com/biz/rustic-san-francisco): has bocce ball
+* [Paxti's](http://patxispizza.com/)
+* [Escape From New York](http://escapefromnewyorkpizza.com/)
+
+### Sushi
+* [Sushi Bistro](http://www.sushibistrosf.com/)
+* [Blowfish](http://www.blowfishsushi.com/)
 
 
 ## Bars
