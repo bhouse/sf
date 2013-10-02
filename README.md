@@ -14,13 +14,17 @@ San Francisco
 ### Beer
 * [Mikkeller Bar](http://www.mikkellerbar.com/)
 * [Zeitgeist](http://zeitgeistsf.com/)
+
 ### Wine
 * [Bin38](http://bin38.com/)
+
 ### Dive
 * [500 Club](http://500clubsf.com/)
 * [Doc's Clock](http://www.docsclock.com/)
+
 ### Cocktails
 * [Nihon Whiskey Lounge](http://www.yelp.com/biz/nihon-whisky-lounge-san-francisco)
+
 ### Atmosphere
 * [Smugglers Cove](http://smugglerscovesf.com/trapdoor)
 
