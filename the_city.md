@@ -60,9 +60,10 @@ San Francisco
 * [Radish](http://radishsf.com/)
 * 
 ### Casual
-### Mediterranean
-* [Ali Baba's Cave](http://www.yelp.com/biz/ali-babas-cave-san-francisco)(falafel)
-* [R Image Market](http://www.yelp.com/biz/r-image-market-san-francisco)(falafel)
+
+### Falafel
+* [Ali Baba's Cave](http://www.yelp.com/biz/ali-babas-cave-san-francisco)
+* [R Image Market](http://www.yelp.com/biz/r-image-market-san-francisco)
 
 ### Mexican
 * [Velvet Cantina](http://velvetcantina.com/)
@@ -87,6 +88,7 @@ San Francisco
 * [Blowfish](http://www.blowfishsushi.com/)
 
 ## Bars
+
 ### Beer (only)
 * [Mikkeller Bar](http://www.mikkellerbar.com/)
 * [Zeitgeist](http://zeitgeistsf.com/)
