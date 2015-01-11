@@ -58,7 +58,7 @@ San Francisco
 * [Chambers](http://chambers-sf.com/)
 * [St. Francis Fountain](http://stfrancisfountainsf.com/)
 * [Radish](http://radishsf.com/)
-* 
+
 ### Casual
 
 ### Falafel
